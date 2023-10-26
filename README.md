@@ -10,6 +10,7 @@
 - I am interested in programing 💻️
 - I also like to listen to music 🎸
 - I am into math, physics and computer science
+- Sometimes I solve problems from LeetCode 🎓
 
 ## Languages and Tools 🛠️
 <div>
