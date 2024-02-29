@@ -22,7 +22,7 @@
                     <img width=30 height=30
                      src=https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg/>/
                     <img width=30 height=30
-                     src=https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg/>
+                     src=https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg/>
         </li>
         <li>
             ☕️Java <img width=30 height=30
