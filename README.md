@@ -1,4 +1,5 @@
 # Hi there 👋
+I am a student at Innopolis University, studying the mathematical foundations of artificial intelligence program.
 ## :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rusha-mathing&theme=dark&background=000000)](https://git.io/streak-stats)
 
